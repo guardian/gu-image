@@ -4,5 +4,12 @@
   "description": "Image signing and sizing for the Guardian",
   "main": "index.js",
   "author": "Nicolas Long <nicolas.long@theguardian.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^12.12.14",
+    "typescript": "^3.7.2"
+  },
+  "dependencies": {
+    "md5": "^2.2.1"
+  }
 }
