@@ -1,0 +1,8 @@
+{
+  "name": "gu-image",
+  "version": "1.0.0",
+  "description": "Image signing and sizing for the Guardian",
+  "main": "index.js",
+  "author": "Nicolas Long <nicolas.long@theguardian.com>",
+  "license": "MIT"
+}
