@@ -1,4 +1,4 @@
-# GU Image
+# @guardian/image
 
 **Note, this will not work without the correct salt value so only usuable within
 the Guardian.**
