@@ -19,7 +19,7 @@ const source = (guimURL: string): string => {
 };
 
 // https://docs.fastly.com/api/imageopto/#image-api-reference
-interface Profile {
+export interface Profile {
     width?: number;
     height?: number;
     dpr?: number;
