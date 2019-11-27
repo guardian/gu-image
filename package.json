@@ -6,6 +6,7 @@
   "license": "MIT",
   "main": "dist/image.js",
   "types": "dist/image.d.ts",
+  "private": false,
   "scripts": {
     "build": "tsc"
   },
