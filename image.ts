@@ -51,8 +51,6 @@ interface Profile {
         | "lanczos3";
 }
 
-// See:
-// https://github.com/guardian/frontend/blob/master/common/app/views/support/ImageProfile.scala#L242
 export const format = (
     masterURL: string,
     salt: string,
