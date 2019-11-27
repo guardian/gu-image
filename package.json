@@ -1,6 +1,6 @@
 {
   "name": "@guardian/image",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Image signing and sizing for the Guardian",
   "author": "Nicolas Long <nicolas.long@theguardian.com>",
   "license": "MIT",
