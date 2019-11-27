@@ -1,5 +1,5 @@
 {
-  "name": "gu-image",
+  "name": "@guardian/image",
   "version": "1.0.0",
   "description": "Image signing and sizing for the Guardian",
   "author": "Nicolas Long <nicolas.long@theguardian.com>",
